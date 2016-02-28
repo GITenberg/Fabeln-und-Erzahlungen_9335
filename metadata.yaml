@@ -1,0 +1,54 @@
+_repo: Fabeln-und-Erzahlungen_9335
+creator:
+  author:
+    agent_name: Gellert, Christian Fürchtegott
+    alias: Gellert, Christian Furchtegott
+    birthdate: 1715
+    deathdate: 1769
+    gutenberg_agent_id: '3015'
+    url: http://www.gutenberg.org/2009/agents/3015
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Christian_F%C3%BCrchtegott_Gellert
+    - http://en.wikipedia.org/wiki/Christian_F%C3%BCrchtegott_Gellert
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9335'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fables'
+- !lcsh 'German poetry -- 18th century'
+tableOfContents: "Alcest\r\nAmynt\r\nCalliste\r\nChloris\r\nCleant\r\nCotill\r\nDamokles\r\
+  \nDamötas und Phyllis\r\nDas Füllen\r\nDas Gespenst\r\nDas Heupferd, oder der Grashüpfer\r\
+  \nDas Hospital\r\nDas junge Mädchen\r\nDas Kartenhaus\r\nDas Kutschpferd\r\nDas\
+  \ Land der Hinkenden\r\nDas neue Ehepaar\r\nDas Pferd und der Esel\r\nDas Pferd\
+  \ und die Bremse\r\nDas Schicksal\r\nDas Testament\r\nDas Unglück der Weiber\r\n\
+  Das Vermächtnis\r\nDer Affe\r\nDer arme Greis\r\nDer arme Schiffer\r\nDer Arme und\
+  \ der Reiche\r\nDer baronisierte Bürger\r\nDer Bauer und sein Sohn\r\nDer beherzte\
+  \ Entschluß\r\nDer betrübte Witwer\r\nDer Bettler\r\nDer Blinde und der Lahme\r\n\
+  Der erhörte Liebhaber\r\nDer Freier\r\nDer Freigeist\r\nDer Fuchs und die Elster\r\
+  \nDer glücklich gewordene Ehemann\r\nDer glückliche Dichter\r\nDer Greis\r\nDer\
+  \ grüne Esel\r\nDer gute Rat\r\nDer gütige Besuch\r\nDer Hund\r\nDer junge Drescher\r\
+  \nDer junge Gelehrte\r\nDer junge Prinz\r\nDer Jüngling\r\nDer Kandidat\r\nDer Knabe\r\
+  \nDer Kranke\r\nDer Kuckuck\r\nDer Lügner\r\nDer Maler\r\nDer Polyhistor\r\nDer\
+  \ Prozeß\r\nDer Reisende\r\nDer Schatz\r\nDer Selbstmord\r\nDer sterbende Vater\r\
+  \nDer süße Traum\r\nDer Tanzbär\r\nDer Tartarfürst\r\nDer Tod der Fliege und der\
+  \ Mücke\r\nDer unsterbliche Autor\r\nDer Wuchrer\r\nDer wunderbare Traum\r\nDer\
+  \ zärtliche Mann\r\nDer Zeisig\r\nDie Bauern und der Amtmann\r\nDie beiden Hunde\r\
+  \nDie beiden Knaben\r\nDie beiden Mädchen\r\nDie beiden Schwalben\r\nDie beiden\
+  \ Wächter\r\nDie Betschwester\r\nDie Biene und die Henne\r\nDie Ente\r\nDie Fliege\r\
+  \nDie Frau und der Geist\r\nDie Geschichte von dem Hute\r\nDie glückliche Ehe\r\n\
+  Die Guttat\r\nDie junge Ente\r\nDie kranke Frau\r\nDie Mißgeburt\r\nDie Nachtigall\
+  \ und der Kuckuck\r\nDie Nachtigall und die Lerche\r\nDie Reise\r\nDie schlauen\
+  \ Mädchen\r\nDie Spinne\r\nDie Verschwiegenheit\r\nDie Widersprecherin\r\nDie zärtliche\
+  \ Frau\r\nElpin\r\nEmil\r\nEpiktet\r\nErast\r\nHerodes und Herodias\r\nInkle und\
+  \ Yariko\r\nLisette\r\nMonime\r\nPhilinde\r\nSelinde\r\nSemnon und das Orakel\r\n\
+  Till"
+title: Fabeln und Erzählungen
+url: http://www.gutenberg.org/ebooks/9335
