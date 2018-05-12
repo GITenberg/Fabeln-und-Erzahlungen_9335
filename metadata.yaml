@@ -1,4 +1,8 @@
 _repo: Fabeln-und-Erzahlungen_9335
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gellert, Christian Fürchtegott
@@ -11,6 +15,8 @@ creator:
     - http://de.wikipedia.org/wiki/Christian_F%C3%BCrchtegott_Gellert
     - http://en.wikipedia.org/wiki/Christian_F%C3%BCrchtegott_Gellert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9335#Fabeln-und-Erzahlungen
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
